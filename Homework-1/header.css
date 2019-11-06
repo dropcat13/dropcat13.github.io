@@ -1,0 +1,18 @@
+header {background-color: #ffffff;
+    margin: 20px 10px 10px 20px;
+    border-width: 25px;
+    border: #cccccc;
+    padding: 10px;
+    color: #777777;
+    width: 50 px;
+    font-family: font-family: 'Georgia', Times, 'Times New Roman', serif;
+    display: flex;
+}
+
+h1{
+    background-color: #4aaaa5;
+    font-family: font-family: 'Georgia', Times, 'Times New Roman', serif;
+    width: 50 px;
+    color: #ffffff;
+    padding: 10px;
+}

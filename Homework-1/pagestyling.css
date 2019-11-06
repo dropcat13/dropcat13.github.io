@@ -1,0 +1,15 @@
+html { 
+    background: url(../Homework-1/assets/images/greek-vase.png) no-repeat center center fixed;
+    background-repeat: repeat;
+}
+
+body{
+    background-color: #ffffff;
+    max-width: 960px;
+    margin: auto;
+    padding: 50px;
+}
+
+h2{
+    color: #4aaaa5;
+}

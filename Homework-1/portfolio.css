@@ -1,0 +1,12 @@
+h1{
+    font: #66B3ED;
+}
+
+a{
+    background-color:#4aaaa5;
+    margin: 20px 10px 10px 20px;
+    padding: 50px;
+    color: black;
+    width: 50 px;
+    font-display: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
