@@ -1,8 +1,11 @@
 html { 
-    background: url(../Homework-1/assets/images/greek-vase.png) no-repeat center center fixed;
+    background: url(../dropcat13.github.io/assets/images/greek-vase.png) no-repeat center center fixed;
     background-repeat: repeat;
 }
 
+body{
+    margin: 0;
+}
 .main{
     background-color: #ffffff;
     max-width: 960px;

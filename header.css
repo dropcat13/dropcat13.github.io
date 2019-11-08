@@ -1,19 +1,17 @@
-header {background-color: #ffffff;
+header {
+    background-color: #ffffff;
     color: #777777;
-    font-family: font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     display: flex;
     border-bottom: 4px solid #777777;
     align-items: center;
     width: 110%;
     position: relative;
-    left: -10px;
-    top: -20px;
 }
 
 h1{
     background-color: #4aaaa5;
-    font-family: font-family: 'Georgia', Times, 'Times New Roman', serif;
-    width: 50 px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     color: #ffffff;
     padding: 20px;
     position: relative;
