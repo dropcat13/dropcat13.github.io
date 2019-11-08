@@ -1,13 +1,13 @@
 footer{
     background-color: #666666;
-    margin: 20px 10px 10px 20px;
+    margin: 0;
     padding: 10px;
     color:#ffffff;
-    font-display: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
     border-top: 8px solid #4aaaa5;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }

@@ -7,35 +7,40 @@
         <title>Document</title>
         <link rel="stylesheet" type="text/css" href="../Homework-1/header.css">
         <link rel="stylesheet" type="text/css" href="../Homework-1/pagestyling.css">
-        <link rel="stylesheet" type="text/css" href="../Homework-1/portfolio.css">
+        <link rel="stylesheet" type="text/css" href="../Homework-1/contact.css">
         <link rel="stylesheet" type="text/css" href="../Homework-1/footer.css">
     </head>
     <body>
         <header>
             <h1>Catherine Kretzschmar</h1>
-            <h3>About</h3>
-            <h3>Portfolio</h3>
-            <h3>Contact</h3>
+            <h3 class="navigation">About</h3>
+            <h3 class="navigation">Portfolio</h3>
+            <h3 class="navigation">Contact</h3>
         </header>
 
-        <h2>Contact</h2>
+        <div class="main">
+            <h2>Contact</h2>
 
-            <div class="container">
-                <form action="action_page.php">
-                
-                    <label for="name">Name</label>
-                    <input type="text" id="name" name="name" placeholder="Your name..">
-                
-                    <label for="email">Email</label>
-                    <input type="text" id="email" name="email" placeholder="Your email..">
-                
-                    <label for="message">Message</label>
-                    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-                
-                    <input id="submit" type="submit" value="Submit">
-                
-                </form>
-            </div>
+                <div class="container">
+                    <form action="action_page.php">
+                    
+                        <label for="name">Name</label>
+                        <br>
+                        <input type="text" id="name" name="name" placeholder="Your name..">
+                        <br>
+                        <label for="email">Email</label>
+                        <br>
+                        <input type="text" id="email" name="email" placeholder="Your email..">
+                        <br>
+                        <label for="message">Message</label>
+                        <br>
+                        <textarea id="message" name="message" placeholder="Write something.."></textarea>
+                        <br>
+                        <input id="submit" type="submit" value="Submit">
+                    
+                    </form>
+                </div>
+        </div>
         
         <footer>
             <p>Cat's portfolio!</p>

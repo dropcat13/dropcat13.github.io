@@ -3,13 +3,19 @@ html {
     background-repeat: repeat;
 }
 
-body{
+.main{
     background-color: #ffffff;
     max-width: 960px;
     margin: auto;
-    padding: 50px;
+    margin-top: 40px;
+    padding: 30px;
+
 }
 
 h2{
     color: #4aaaa5;
+}
+
+h3{
+    padding: 20px;
 }
