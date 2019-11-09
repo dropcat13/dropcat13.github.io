@@ -1,4 +1,13 @@
-header {
+.navigation{
+    position: relative;
+    padding: 20px;
+    color: #777777;
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    left: 200px; 
+    }
+    
+    header {
     background-color: #ffffff;
     color: #777777;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -7,6 +16,12 @@ header {
     align-items: center;
     width: 110%;
     position: relative;
+}
+
+.topbit{
+    max-width: 960px;
+    background-color: #ffffff;
+    display: flex;
 }
 
 h1{
@@ -19,9 +34,3 @@ h1{
     left: 122px;
 }
 
-.navigation{
-    position: relative;
-    padding: 10px;
-    left: 450px;
-    bottom: -22px;     
-}
