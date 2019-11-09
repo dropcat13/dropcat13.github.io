@@ -8,16 +8,6 @@ h2{
     border-bottom: 4px solid #777777;
 }
 
-a{
-    background-color:#4aaaa5;
-    margin: 20px 10px 10px 20px;
-    padding: 50px;
-    color: black;
-    width: 50 px;
-    font-display: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
-    text-align: centre;
-}
-
 .pictures{
     position: relative;
     padding: 10px;
